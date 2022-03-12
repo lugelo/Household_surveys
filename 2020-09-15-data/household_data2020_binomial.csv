@@ -1,0 +1,1390 @@
+household_ID,dog_total,campaign_type,Strategy,ward,village,sub_village,dog_vacc_status,dogs_yes_vacc,dogs_no_vacc,vacc_card_status,number_dogs_seen,microchip_scanned_dogs_yes,microchip_scanned_dogs_no,vacc_dog_no_chip_status,dogs_vacc_cert,RegionName.y,district
+RCT1017,2,continuous,1,4,7,Rabour,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1019,1,continuous,1,4,7,Rabour,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1020,2,continuous,1,4,7,Rabour,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,1
+RCT1021,4,continuous,1,4,7,Rabour,no_vacc,NA,4,,0,0,NA,,NA,Mara,1
+RCT1023,3,continuous,1,4,7,Rabour,yes_vacc,3,0,yes_card,2,2,NA,no,3,Mara,1
+RCT1024,2,continuous,1,4,7,Rabour,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1013,2,continuous,1,4,7,Nyahera,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1012,2,continuous,1,4,7,Nyahera,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1009,1,continuous,1,4,7,Nyahera,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1008,3,continuous,1,4,7,Nyahera,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1007,2,continuous,1,4,7,Nyahera,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1006,1,continuous,1,4,7,Nyahera,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1005,3,continuous,1,4,7,Nyahera,yes_vacc,3,0,yes_card,3,1,2,yes,3,Mara,1
+RCT1014,2,continuous,1,4,7,Nyahera,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1004,2,continuous,1,4,7,Center,yes_vacc,2,0,yes_card,NA,2,NA,no,2,Mara,1
+RCT1003,5,continuous,1,4,7,Center,yes_vacc,1,4,yes_card,5,1,NA,no,1,Mara,1
+RCT1002,6,continuous,1,4,7,Center,yes_vacc,1,5,yes_card,6,1,NA,no,1,Mara,1
+RCT1001,2,continuous,1,4,7,Center,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+HS1903,3,continuous,1,4,7,Center,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+HS1904,3,continuous,1,4,7,Center,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+HS1905,1,continuous,1,4,7,Center,yes_vacc,1,0,yes_card,NA,1,NA,no,1,Mara,1
+HS1906,1,continuous,1,4,7,Center,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1907,3,continuous,1,4,7,Center,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+HS1908,1,continuous,1,4,7,Center,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1910,2,continuous,1,4,17,Nyamsarwa,yes_vacc,5,0,yes_card,2,2,NA,no,2,Mara,1
+HS1911,1,continuous,1,4,17,Nyamsarwa,yes_vacc,1,0,yes_card,NA,1,NA,no,1,Mara,1
+HS1913,2,continuous,1,4,17,Nyamsarwa,no_vacc,NA,2,,NA,0,NA,,NA,Mara,1
+HS1914,1,continuous,1,4,17,Nyamsarwa,yes_vacc,1,0,yes_card,NA,1,NA,no,1,Mara,1
+HS1915,1,continuous,1,4,17,Nyamsarwa,no_vacc,NA,1,,NA,0,NA,,NA,Mara,1
+HS1916,5,continuous,1,4,17,Nyamsarwa,yes_vacc,1,4,yes_card,NA,1,NA,no,1,Mara,1
+HS1917,2,continuous,1,4,17,Nyamsarwa,yes_vacc,1,1,yes_card,NA,1,NA,no,1,Mara,1
+HS1918,3,continuous,1,4,17,Nyamsarwa,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+HS1929,1,continuous,1,4,17,Makao,yes_vacc,1,0,yes_card,NA,0,NA,no,1,Mara,1
+HS1930,1,continuous,1,4,17,Makao,yes_vacc,1,0,yes_card,NA,1,NA,no,1,Mara,1
+HS1931,1,continuous,1,4,17,Makao,yes_vacc,1,0,yes_card,NA,1,NA,no,1,Mara,1
+HS1933,3,continuous,1,4,17,Makao,no_vacc,NA,3,,NA,0,NA,,NA,Mara,1
+HS1934,1,continuous,1,4,17,Makao,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1935,1,continuous,1,4,17,Makao,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1936,2,continuous,1,4,17,Makao,yes_vacc,4,2,yes_card,NA,2,NA,no,2,Mara,1
+HS1937,3,continuous,1,4,17,Makao,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,1
+HS1938,2,continuous,1,4,17,Makao,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+HS1919,2,continuous,1,4,17,Oboke,yes_vacc,2,0,yes_card,1,0,NA,no,2,Mara,1
+HS1920,2,continuous,1,4,17,Oboke,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+HS1921,1,continuous,1,4,17,Oboke,yes_vacc,1,0,yes_card,NA,0,NA,no,1,Mara,1
+HS1922,4,continuous,1,4,17,Oboke,no_vacc,NA,4,,4,0,NA,,NA,Mara,1
+HS1923,5,continuous,1,4,17,Oboke,yes_vacc,1,4,yes_card,5,1,NA,no,1,Mara,1
+HS1924,2,continuous,1,4,17,Oboke,yes_vacc,2,0,yes_card,2,2,NA,no,0,Mara,1
+HS1925,2,continuous,1,4,17,Oboke,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+HS1926,1,continuous,1,4,17,Oboke,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1927,1,continuous,1,4,17,Oboke,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1928,2,continuous,1,4,17,Oboke,yes_vacc,0,2,yes_card,2,0,NA,no,2,Mara,1
+HS1939,2,continuous,1,4,20,Masonga,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+HS1940,1,continuous,1,4,20,Masonga,yes_vacc,1,0,yes_card,NA,0,NA,no,1,Mara,1
+HS1941,2,continuous,1,4,20,Masonga,yes_vacc,2,0,yes_card,2,0,NA,no,2,Mara,1
+HS1942,1,continuous,1,4,20,Masonga,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+HS1943,3,continuous,1,4,20,Masonga,yes_vacc,3,0,yes_card,2,2,NA,no,3,Mara,1
+HS1944,2,continuous,1,4,20,Masonga,yes_vacc,0,2,no_card,2,0,NA,no,2,Mara,1
+HS1945,2,continuous,1,4,20,Masonga,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,1
+HS1946,7,continuous,1,4,20,Masonga,yes_vacc,1,6,yes_card,7,1,NA,no,1,Mara,1
+HS1947,6,continuous,1,4,20,Masonga,yes_vacc,3,3,yes_card,4,3,NA,no,3,Mara,1
+HS1948,4,continuous,1,4,20,Masonga,no_vacc,NA,4,,2,0,NA,,NA,Mara,1
+HS1950,2,continuous,1,4,20,NyamogoBugoge,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+HS1951,2,continuous,1,4,20,NyamogoBugoge,yes_vacc,3,0,yes_card,1,1,NA,no,3,Mara,1
+HS1949,2,continuous,1,4,20,NyamogoBugoge,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+HS1963,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1962,3,continuous,1,4,20,NyamogoBugoge,yes_vacc,2,1,yes_card,3,2,NA,no,1,Mara,1
+HS1961,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1964,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1966,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,1
+HS1965,5,continuous,1,4,20,NyamogoBugoge,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,1
+HS1874,3,continuous,1,4,20,NyamogoBugoge,yes_vacc,2,1,yes_card,3,2,1,yes,3,Mara,1
+HS1873,4,continuous,1,4,20,NyamogoBugoge,yes_vacc,2,2,yes_card,2,0,NA,no,0,Mara,1
+HS1953,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1954,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,1
+HS1955,10,continuous,1,4,20,NyamogoBugoge,no_vacc,NA,10,,10,0,NA,,NA,Mara,1
+HS1956,1,continuous,1,4,20,NyamogoBugoge,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1957,1,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1958,2,continuous,1,4,20,NyamogoBugoge,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+HS1959,1,continuous,1,4,20,NyamogoBugoge,no_vacc,NA,1,,NA,0,NA,,NA,Mara,1
+HS1976,2,continuous,1,4,22,Magamaga,yes_vacc,2,0,yes_card,1,0,NA,no,0,Mara,1
+HS1975,2,continuous,1,4,22,Magamaga,yes_vacc,2,0,yes_card,NA,0,NA,no,0,Mara,1
+HS1974,1,continuous,1,4,22,Magamaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1973,1,continuous,1,4,22,Magamaga,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,1
+HS1972,1,continuous,1,4,22,Magamaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1971,2,continuous,1,4,22,Magamaga,yes_vacc,2,1,yes_card,2,1,NA,no,2,Mara,1
+HS1970,2,continuous,1,4,22,Magamaga,yes_vacc,2,0,yes_card,1,0,NA,no,2,Mara,1
+HS1969,4,continuous,1,4,22,Magamaga,yes_vacc,2,2,yes_card,3,2,NA,no,2,Mara,1
+HS1968,1,continuous,1,4,22,Magamaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1967,5,continuous,1,4,22,Magamaga,yes_vacc,5,0,yes_card,3,3,NA,no,0,Mara,1
+HS1986,3,continuous,1,4,22,Sota,yes_vacc,3,0,yes_card,1,1,NA,no,3,Mara,1
+HS1987,4,continuous,1,4,22,Sota,unknown,NA,4,,1,0,NA,,NA,Mara,1
+HS1988,2,continuous,1,4,22,Sota,yes_vacc,2,0,unknown,2,2,NA,no,2,Mara,1
+HS1996,2,continuous,1,4,22,Sota,yes_vacc,2,0,yes_card,2,2,NA,no,3,Mara,1
+HS1990,5,continuous,1,4,22,Sota,no_vacc,NA,5,,5,0,NA,,NA,Mara,1
+HS1991,2,continuous,1,4,22,Sota,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+HS1992,1,continuous,1,4,22,Sota,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1993,1,continuous,1,4,22,Sota,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,1
+HS1994,2,continuous,1,4,22,Sota,unknown,NA,0,,1,0,NA,,NA,Mara,1
+HS1995,1,continuous,1,4,22,Sota,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+HS1977,1,continuous,1,4,22,Gingo,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+HS1978,2,continuous,1,4,22,Gingo,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+HS1979,2,continuous,1,4,22,Gingo,yes_vacc,2,0,yes_card,2,2,NA,no,1,Mara,1
+HS1980,2,continuous,1,4,22,Gingo,yes_vacc,2,0,yes_card,2,2,NA,no,0,Mara,1
+HS1981,1,continuous,1,4,22,Gingo,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+HS1982,3,continuous,1,4,22,Gingo,yes_vacc,3,0,yes_card,3,3,NA,no,0,Mara,1
+HS1983,2,continuous,1,4,22,Gingo,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+HS1984,4,continuous,1,4,22,Gingo,yes_vacc,4,0,yes_card,2,2,NA,no,4,Mara,1
+HS1985,4,continuous,1,4,22,Gingo,yes_vacc,4,0,yes_card,1,1,NA,no,4,Mara,1
+HS1989,2,continuous,1,4,22,Gingo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1035,3,continuous,3,9,34,Lwana-agago,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,1
+RCT1034,4,continuous,3,9,34,Lwana-agago,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1033,1,continuous,3,9,34,Lwana-agago,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1032,3,continuous,3,9,34,Lwana-agago,yes_vacc,1,2,yes_card,2,0,NA,no,1,Mara,1
+RCT1045,1,continuous,3,9,34,Nyarero,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1044,3,continuous,3,9,34,Nyarero,yes_vacc,1,2,no_card,2,1,NA,no,1,Mara,1
+RCT1043,1,continuous,3,9,34,Nyarero,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1042,1,continuous,3,9,34,Nyarero,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1041,2,continuous,3,9,34,Nyarero,yes_vacc,2,2,yes_card,2,0,NA,no,0,Mara,1
+RCT1040,4,continuous,3,9,34,Nyarero,yes_vacc,3,1,yes_card,3,2,NA,no,2,Mara,1
+RCT1039,4,continuous,3,9,34,Nyarero,yes_vacc,2,2,yes_card,3,2,NA,no,2,Mara,1
+RCT1038,3,continuous,3,9,34,Nyarero,yes_vacc,2,1,yes_card,2,2,NA,no,2,Mara,1
+RCT1037,1,continuous,3,9,34,Nyarero,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1036,4,continuous,3,9,34,Nyarero,yes_vacc,3,1,yes_card,3,3,NA,no,3,Mara,1
+RCT1055,1,continuous,3,9,34,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1054,1,continuous,3,9,34,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1053,1,continuous,3,9,34,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1052,2,continuous,3,9,34,Lwala,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1051,2,continuous,3,9,34,Lwala,yes_vacc,1,1,yes_card,2,1,1,yes,1,Mara,1
+RCT1050,1,continuous,3,9,34,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1049,3,continuous,3,9,34,Lwala,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1048,3,continuous,3,9,34,Lwala,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1047,1,continuous,3,9,34,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1046,3,continuous,3,9,34,Lwala,yes_vacc,3,0,no_card,3,3,NA,no,3,Mara,1
+RCT0520,6,continuous,3,9,39,Senta,yes_vacc,3,3,yes_card,5,3,NA,no,3,Mara,1
+RCT0519,1,continuous,3,9,39,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0518,1,continuous,3,9,39,Senta,no_vacc,NA,0,,1,0,NA,,NA,Mara,1
+RCT0517,1,continuous,3,9,39,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0516,1,continuous,3,9,39,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0515,1,continuous,3,9,39,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0514,5,continuous,3,9,39,Senta,yes_vacc,2,3,yes_card,5,2,3,yes,2,Mara,1
+RCT0513,1,continuous,3,9,39,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0512,1,continuous,3,9,39,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0511,2,continuous,3,9,39,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT0510,1,continuous,3,9,39,Vunja Amri,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0509,2,continuous,3,9,39,Vunja Amri,yes_vacc,2,0,unknown,2,0,2,yes,0,Mara,1
+RCT0508,4,continuous,3,9,39,Vunja Amri,yes_vacc,3,1,yes_card,4,2,1,yes,3,Mara,1
+RCT1085,2,continuous,3,9,32,0,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1084,1,continuous,3,9,32,0,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1083,3,continuous,3,9,32,0,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1082,2,continuous,3,9,32,0,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1081,2,continuous,3,9,32,0,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1080,6,continuous,3,9,32,0,yes_vacc,1,5,yes_card,1,1,NA,no,1,Mara,1
+RCT1079,1,continuous,3,9,32,0,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1078,1,continuous,3,9,32,0,yes_vacc,1,0,yes_card,1,0,NA,no,0,Mara,1
+RCT1077,1,continuous,3,9,32,0,yes_vacc,1,1,no_card,1,1,NA,no,0,Mara,1
+RCT1056,2,continuous,3,9,32,0,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1076,2,continuous,3,9,32,Shuleni,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1075,1,continuous,3,9,32,Shuleni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1074,3,continuous,3,9,32,Shuleni,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1073,1,continuous,3,9,32,Shuleni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1072,8,continuous,3,9,32,Shuleni,yes_vacc,4,4,yes_card,8,4,NA,no,4,Mara,1
+RCT1071,1,continuous,3,9,32,Shuleni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1070,1,continuous,3,9,32,Shuleni,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT1069,4,continuous,3,9,32,Shuleni,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1068,4,continuous,3,9,32,Shuleni,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1067,2,continuous,3,9,32,Shuleni,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1066,3,continuous,3,9,32,Mtakuja,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1065,1,continuous,3,9,32,Mtakuja,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1064,2,continuous,3,9,32,Mtakuja,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1063,5,continuous,3,9,32,Mtakuja,no_vacc,NA,5,,5,0,NA,,NA,Mara,1
+RCT1062,2,continuous,3,9,32,Mtakuja,yes_vacc,1,0,yes_card,2,1,NA,no,1,Mara,1
+RCT1061,3,continuous,3,9,32,Mtakuja,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1060,1,continuous,3,9,32,Mtakuja,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1059,3,continuous,3,9,32,Mtakuja,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1058,1,continuous,3,9,32,Mtakuja,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1057,1,continuous,3,9,32,Mtakuja,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1093,2,continuous,2,1,29,Parokia,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1095,1,continuous,2,1,29,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1094,2,continuous,2,1,29,Parokia,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1092,1,continuous,2,1,29,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1091,1,continuous,2,1,29,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1090,2,continuous,2,1,29,Parokia,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1089,1,continuous,2,1,29,Parokia,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1088,1,continuous,2,1,29,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1087,12,continuous,2,1,29,Parokia,yes_vacc,6,0,yes_card,12,6,NA,no,6,Mara,1
+RCT1086,1,continuous,2,1,29,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1105,2,continuous,2,1,29,Lamboni,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1104,1,continuous,2,1,29,Lamboni,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1103,1,continuous,2,1,29,Lamboni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1102,2,continuous,2,1,29,Lamboni,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1101,1,continuous,2,1,29,Lamboni,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1100,1,continuous,2,1,29,Lamboni,yes_vacc,1,0,no_card,1,1,NA,no,1,Mara,1
+RCT1099,2,continuous,2,1,29,Lamboni,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1098,3,continuous,2,1,29,Lamboni,no_vacc,NA,3,,1,0,NA,,NA,Mara,1
+RCT1097,1,continuous,2,1,29,Lamboni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1096,4,continuous,2,1,29,Lamboni,yes_vacc,4,0,yes_card,0,0,NA,no,4,Mara,1
+RCT1115,2,continuous,2,1,29,Rodi,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1114,2,continuous,2,1,29,Rodi,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1113,1,continuous,2,1,29,Rodi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1112,1,continuous,2,1,29,Rodi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1111,3,continuous,2,1,29,Rodi,yes_vacc,2,1,yes_card,2,2,NA,no,2,Mara,1
+RCT1110,2,continuous,2,1,29,Rodi,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1109,2,continuous,2,1,29,Rodi,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1108,3,continuous,2,1,29,Rodi,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1107,2,continuous,2,1,29,Rodi,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1106,3,continuous,2,1,29,Rodi,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1125,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1124,2,continuous,2,1,27,Oboke Juu,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1123,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1122,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,1
+RCT1121,1,continuous,2,1,27,Oboke Juu,no_vacc,NA,0,,1,1,NA,,NA,Mara,1
+RCT1120,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1119,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1118,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1117,1,continuous,2,1,27,Oboke Juu,yes_vacc,1,0,no_card,1,0,NA,no,0,Mara,1
+RCh1106,2,continuous,2,1,27,Oboke Juu,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1135,4,continuous,2,1,27,Obama Street,yes_vacc,2,2,yes_card,2,2,NA,no,2,Mara,1
+RCT1134,1,continuous,2,1,27,Obama Street,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT1133,2,continuous,2,1,27,Obama Street,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1132,3,continuous,2,1,27,Obama Street,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1131,2,continuous,2,1,27,Obama Street,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1130,1,continuous,2,1,27,Obama Street,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1129,1,continuous,2,1,27,Obama Street,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1128,2,continuous,2,1,27,Obama Street,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1127,2,continuous,2,1,27,Obama Street,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1126,1,continuous,2,1,27,Obama Street,unknown,NA,1,,0,0,NA,,NA,Mara,1
+RCT1145,1,continuous,2,1,27,Nyatike,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1144,3,continuous,2,1,27,Nyatike,yes_vacc,3,0,no_card,3,3,NA,no,3,Mara,1
+RCT1143,1,continuous,2,1,27,Nyatike,yes_vacc,1,0,no_card,1,1,NA,no,1,Mara,1
+RCT1142,2,continuous,2,1,27,Nyatike,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1141,3,continuous,2,1,27,Nyatike,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1140,1,continuous,2,1,27,Nyatike,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1139,7,continuous,2,1,27,Nyatike,yes_vacc,0,0,yes_card,NA,0,NA,no,7,Mara,1
+RCT1138,4,continuous,2,1,27,Nyatike,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1137,1,continuous,2,1,27,Nyatike,unknown,NA,1,,1,0,NA,,NA,Mara,1
+RCT1136,1,continuous,2,1,27,Nyatike,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1150,4,continuous,2,1,1,4,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,1
+RCT1150,2,continuous,2,1,1,4,yes_vacc,2,0,yes_card,2,1,NA,no,2,Mara,1
+RCT1149,1,continuous,2,1,1,4,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1148,1,continuous,2,1,1,4,yes_vacc,1,0,yes_card,NA,1,NA,no,1,Mara,1
+RCT1148,2,continuous,2,1,1,4,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1147,3,continuous,2,1,1,4,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1147,2,continuous,2,1,1,4,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1146,3,continuous,2,1,1,4,yes_vacc,3,1,yes_card,3,2,NA,no,2,Mara,1
+RCT1146,3,continuous,2,1,1,4,yes_vacc,3,1,no_card,3,2,NA,no,0,Mara,1
+RCT0060,2,pulse,0,0,0,Nyamwaga Senta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0059,2,pulse,0,0,0,Nyamwaga Senta,yes_vacc,2,0,yes_card,2,0,NA,no,2,Mara,0
+RCT0058,2,pulse,0,0,0,Nyamwaga Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0057,5,pulse,0,0,0,Nyamwaga Senta,yes_vacc,2,3,yes_card,3,0,NA,no,2,Mara,0
+RCT0056,1,pulse,0,0,0,Nyamwaga Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0055,3,pulse,0,0,0,Nyamwaga Senta,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0054,1,pulse,0,0,0,Nyamwaga Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0053,2,pulse,0,0,0,Nyamwaga Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0052,3,pulse,0,0,0,Nyamwaga Senta,yes_vacc,2,0,yes_card,3,0,NA,no,2,Mara,0
+RCT0051,1,pulse,0,0,0,Nyamwaga Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0050,1,pulse,0,0,0,Makerero,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0049,2,pulse,0,0,0,Makerero,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0048,1,pulse,0,0,0,Makerero,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0047,3,pulse,0,0,0,Makerero,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0046,1,pulse,0,0,0,Makerero,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0045,2,pulse,0,0,0,Makerero,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0044,2,pulse,0,0,0,Makerero,yes_vacc,1,1,yes_card,0,1,NA,no,1,Mara,0
+RCT0043,1,pulse,0,0,0,Makerero,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0042,1,pulse,0,0,0,Makerero,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0041,2,pulse,0,0,0,Makerero,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0040,3,pulse,0,0,0,Mesero,yes_vacc,3,0,yes_card,2,2,NA,no,3,Mara,0
+RCT0039,3,pulse,0,0,0,Mesero,yes_vacc,3,0,yes_card,0,0,NA,no,3,Mara,0
+RCT0038,1,pulse,0,0,0,Mesero,no_vacc,NA,1,,0,0,NA,,NA,Mara,0
+RCT0037,2,pulse,0,0,0,Mesero,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0036,2,pulse,0,0,0,Mesero,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,0
+RCT0035,3,pulse,0,0,0,Mesero,yes_vacc,3,3,yes_card,2,0,NA,no,0,Mara,0
+RCT0034,1,pulse,0,0,0,Mesero,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0033,1,pulse,0,0,0,Mesero,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0032,1,pulse,0,0,0,Mesero,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0031,2,pulse,0,0,0,Mesero,yes_vacc,2,0,unknown,1,1,NA,no,0,Mara,0
+RCT1159,5,continuous,2,1,1,Nyamatheng'eng'e,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1157,1,continuous,2,1,1,Nyamatheng'eng'e,yes_vacc,1,0,no_card,1,1,NA,no,1,Mara,1
+RCT1156,1,continuous,2,1,1,Nyamatheng'eng'e,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,1
+RCT1155,1,continuous,2,1,1,Nyamatheng'eng'e,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1154,2,continuous,2,1,1,Nyamatheng'eng'e,yes_vacc,2,0,no_card,2,0,NA,no,2,Mara,1
+RCT1153,2,continuous,2,1,1,Nyamatheng'eng'e,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1152,1,continuous,2,1,1,Nyamatheng'eng'e,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1151,2,continuous,2,1,1,Nyamatheng'eng'e,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1151,1,continuous,2,1,1,Nyamatheng'eng'e,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,1
+RCT1169,2,continuous,2,1,1,Kandege,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1168,5,continuous,2,1,1,Kandege,no_vacc,NA,5,,5,0,NA,,NA,Mara,1
+RCT1167,3,continuous,2,1,1,Kandege,unknown,NA,0,,3,0,NA,,NA,Mara,1
+RCT1166,2,continuous,2,1,1,Kandege,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1165,4,continuous,2,1,1,Kandege,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1164,4,continuous,2,1,1,Kandege,no_vacc,NA,4,,4,0,NA,,NA,Mara,1
+RCT1163,3,continuous,2,1,1,Kandege,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1162,1,continuous,2,1,1,Kandege,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1161,2,continuous,2,1,1,Kandege,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1160,1,continuous,2,1,1,Kandege,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1179,1,continuous,2,1,25,Okebe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1178,1,continuous,2,1,25,Okebe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1177,1,continuous,2,1,25,Okebe,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1176,1,continuous,2,1,25,Okebe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1175,1,continuous,2,1,25,Okebe,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1174,1,continuous,2,1,25,Okebe,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1173,1,continuous,2,1,25,Okebe,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1172,2,continuous,2,1,25,Okebe,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1171,1,continuous,2,1,25,Okebe,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,1
+RCT1170,2,continuous,2,1,25,Okebe,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,1
+RCT0620,4,continuous,1,11,42,Nyirobi B,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0619,2,continuous,1,11,42,Nyirobi B,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0618,3,continuous,1,11,42,Nyirobi B,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0617,1,continuous,1,11,42,Nyirobi B,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0616,2,continuous,1,11,42,Nyirobi B,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,2
+RCT0615,1,continuous,1,11,42,Nyirobi B,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0614,4,continuous,1,11,42,Nyirobi B,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0613,3,continuous,1,11,42,Nyirobi B,yes_vacc,3,0,yes_card,2,2,NA,no,3,Mara,2
+RCT0612,2,continuous,1,11,42,Nyirobi B,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0611,2,continuous,1,11,42,Nyirobi B,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0610,1,continuous,1,11,42,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0609,2,continuous,1,11,42,Kitorare A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0608,1,continuous,1,11,42,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0607,3,continuous,1,11,42,Kitorare A,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0606,1,continuous,1,11,42,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0605,5,continuous,1,11,42,Kitorare A,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,2
+RCT0604,4,continuous,1,11,42,Kitorare A,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0603,1,continuous,1,11,42,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0602,4,continuous,1,11,42,Kitorare A,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0601,1,continuous,1,11,42,Kitorare A,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0600,2,continuous,1,11,42,Nyirema,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0599,3,continuous,1,11,42,Nyirema,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0598,1,continuous,1,11,42,Nyirema,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0597,3,continuous,1,11,42,Nyirema,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0596,3,continuous,1,11,42,Nyirema,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0595,2,continuous,1,11,42,Nyirema,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0594,2,continuous,1,11,42,Nyirema,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0593,5,continuous,1,11,42,Nyirema,yes_vacc,4,1,yes_card,5,4,NA,no,4,Mara,2
+RCT0592,2,continuous,1,11,42,Nyirema,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0591,2,continuous,1,11,42,Nyirema,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0590,1,continuous,1,11,40,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0589,3,continuous,1,11,40,Senta,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0588,2,continuous,1,11,40,Senta,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0587,1,continuous,1,11,40,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0586,4,continuous,1,11,40,Senta,yes_vacc,4,0,unknown,4,4,NA,no,4,Mara,2
+RCT0585,2,continuous,1,11,40,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0584,1,continuous,1,11,40,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0583,1,continuous,1,11,40,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0582,2,continuous,1,11,40,Senta,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0581,1,continuous,1,11,40,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,0,Mara,2
+RCT0580,2,continuous,1,11,40,Kiabakari B,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0579,5,continuous,1,11,40,Kiabakari B,yes_vacc,4,1,yes_card,3,2,NA,no,4,Mara,2
+RCT0578,2,continuous,1,11,40,Kiabakari B,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0577,3,continuous,1,11,40,Kiabakari B,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0576,2,continuous,1,11,40,Kiabakari B,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0575,2,continuous,1,11,40,Kiabakari B,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0574,2,continuous,1,11,40,Kiabakari B,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0573,5,continuous,1,11,40,Kiabakari B,yes_vacc,5,0,yes_card,5,5,NA,no,4,Mara,2
+RCT0572,1,continuous,1,11,40,Kiabakari B,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0571,1,continuous,1,11,40,Kiabakari B,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT1196,3,continuous,2,1,25,Matangwe A,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1196,3,continuous,2,1,25,Matangwe A,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1196,3,continuous,2,1,25,Matangwe A,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1196,3,continuous,2,1,25,Matangwe A,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1197,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1197,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1197,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1197,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1198,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1198,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1198,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1198,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1199,2,continuous,2,1,25,Matangwe A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1199,2,continuous,2,1,25,Matangwe A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1199,2,continuous,2,1,25,Matangwe A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1199,2,continuous,2,1,25,Matangwe A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1200,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1200,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1201,2,continuous,2,1,25,Matangwe A,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1201,2,continuous,2,1,25,Matangwe A,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1193,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1193,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1192,3,continuous,2,1,25,Matangwe A,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1192,3,continuous,2,1,25,Matangwe A,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1191,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1191,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1190,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1190,1,continuous,2,1,25,Matangwe A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1189,1,continuous,2,1,25,Ziwani,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1188,1,continuous,2,1,25,Ziwani,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1187,1,continuous,2,1,25,Ziwani,yes_vacc,1,0,yes_card,1,1,NA,no,0,Mara,1
+RCT1186,1,continuous,2,1,25,Ziwani,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1185,1,continuous,2,1,25,Ziwani,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1184,1,continuous,2,1,25,Ziwani,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1183,2,continuous,2,1,25,Ziwani,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,1
+RCT1182,2,continuous,2,1,25,Ziwani,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,1
+RCT1181,2,continuous,2,1,25,Ziwani,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,1
+RCT1180,2,continuous,2,1,25,Ziwani,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,1
+RCT1211,2,continuous,2,1,31,Nyakina,unknown,NA,2,,2,0,NA,,NA,Mara,1
+RCT1210,1,continuous,2,1,31,Nyakina,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1209,2,continuous,2,1,31,Nyakina,no_vacc,NA,0,,2,0,NA,,NA,Mara,1
+RCT1208,1,continuous,2,1,31,Nyakina,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1207,3,continuous,2,1,31,Nyakina,yes_vacc,2,1,yes_card,3,1,NA,no,2,Mara,1
+RCT1206,2,continuous,2,1,31,Nyakina,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1205,4,continuous,2,1,31,Nyakina,no_vacc,NA,4,,4,0,NA,,NA,Mara,1
+RCT1204,1,continuous,2,1,31,Nyakina,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1203,3,continuous,2,1,31,Nyakina,yes_vacc,2,3,yes_card,1,0,NA,no,2,Mara,1
+RCT1202,1,continuous,2,1,31,Nyakina,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0501,1,continuous,3,9,39,Vunja Amri,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0530,2,continuous,3,9,39,Zahanati,no_vacc,NA,2,,NA,0,NA,,NA,Mara,1
+RCT0529,3,continuous,3,9,39,Zahanati,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT0528,1,continuous,3,9,39,Zahanati,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0527,4,continuous,3,9,39,Zahanati,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,1
+RCT0526,1,continuous,3,9,39,Zahanati,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT0525,2,continuous,3,9,39,Zahanati,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT0524,2,continuous,3,9,39,Zahanati,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT0523,1,continuous,3,9,39,Zahanati,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0522,1,continuous,3,9,39,Zahanati,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0521,1,continuous,3,9,39,Zahanati,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT0540,2,continuous,3,9,37,Obembe,no_vacc,NA,2,,1,0,NA,,NA,Mara,1
+RCT0539,2,continuous,3,9,37,Obembe,no_vacc,NA,2,,1,0,NA,,NA,Mara,1
+RCT0538,1,continuous,3,9,37,Obembe,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT0537,1,continuous,3,9,37,Obembe,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0536,2,continuous,3,9,37,Obembe,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT0535,1,continuous,3,9,37,Obembe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0534,1,continuous,3,9,37,Obembe,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0533,2,continuous,3,9,37,Obembe,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT0532,1,continuous,3,9,37,Obembe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0531,1,continuous,3,9,37,Obembe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0550,3,continuous,3,9,37,Shauri_yako,yes_vacc,2,1,yes_card,2,1,NA,no,2,Mara,1
+RCT0549,1,continuous,3,9,37,Shauri_yako,no_vacc,NA,1,,NA,0,NA,,NA,Mara,1
+RCT0548,4,continuous,3,9,37,Shauri_yako,yes_vacc,3,1,yes_card,3,2,1,yes,3,Mara,1
+RCT0547,2,continuous,3,9,37,Shauri_yako,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT0546,3,continuous,3,9,37,Shauri_yako,yes_vacc,1,2,yes_card,1,0,NA,no,1,Mara,1
+RCT0545,2,continuous,3,9,37,Shauri_yako,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT0544,2,continuous,3,9,37,Shauri_yako,no_vacc,NA,0,,2,0,NA,,NA,Mara,1
+RCT0543,2,continuous,3,9,37,Shauri_yako,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT0542,1,continuous,3,9,37,Shauri_yako,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0541,2,continuous,3,9,37,Shauri_yako,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT0560,1,continuous,3,9,37,Korino,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0559,1,continuous,3,9,37,Korino,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0558,3,continuous,3,9,37,Korino,yes_vacc,2,1,yes_card,2,2,NA,no,2,Mara,1
+RCT0557,1,continuous,3,9,37,Korino,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0556,1,continuous,3,9,37,Korino,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0555,1,continuous,3,9,37,Korino,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0554,1,continuous,3,9,37,Korino,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT0553,1,continuous,3,9,37,Korino,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0552,2,continuous,3,9,37,Korino,yes_vacc,1,1,yes_card,1,0,1,yes,1,Mara,1
+RCT0551,1,continuous,3,9,37,Korino,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0570,3,continuous,1,11,40,Kiabakari A,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0569,1,continuous,1,11,40,Kiabakari A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0568,1,continuous,1,11,40,Kiabakari A,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,2
+RCT0567,1,continuous,1,11,40,Kiabakari A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0566,1,continuous,1,11,40,Kiabakari A,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0565,2,continuous,1,11,40,Kiabakari A,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0564,2,continuous,1,11,40,Kiabakari A,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0563,1,continuous,1,11,40,Kiabakari A,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,2
+RCT0562,2,continuous,1,11,40,Kiabakari A,yes_vacc,3,0,yes_card,2,2,NA,no,3,Mara,2
+RCT0561,2,continuous,1,11,40,Kiabakari A,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0630,1,continuous,1,11,43,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0629,1,continuous,1,11,43,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0628,3,continuous,1,11,43,Mtukula,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0627,2,continuous,1,11,43,Mtukula,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0626,2,continuous,1,11,43,Mtukula,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0625,2,continuous,1,11,43,Mtukula,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0624,1,continuous,1,11,43,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0623,2,continuous,1,11,43,Mtukula,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0622,3,continuous,1,11,43,Mtukula,yes_vacc,3,1,yes_card,4,3,NA,no,3,Mara,2
+RCT0621,4,continuous,1,11,43,Mtukula,yes_vacc,2,2,unknown,4,2,NA,no,2,Mara,2
+RCT0640,2,continuous,1,11,43,1,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0639,1,continuous,1,11,43,1,yes_vacc,1,0,yes_card,1,0,1,yes,1,Mara,2
+RCT0638,3,continuous,1,11,43,1,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0637,1,continuous,1,11,43,1,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0636,5,continuous,1,11,43,1,yes_vacc,4,1,yes_card,5,4,NA,no,4,Mara,2
+RCT0635,4,continuous,1,11,43,1,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0634,2,continuous,1,11,43,1,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0633,1,continuous,1,11,43,1,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0632,1,continuous,1,11,43,1,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0631,2,continuous,1,11,43,1,yes_vacc,1,1,unknown,2,1,NA,no,0,Mara,2
+RCT0650,2,continuous,1,11,43,Kigumi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0649,3,continuous,1,11,43,Kigumi,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0648,2,continuous,1,11,43,Kigumi,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0647,3,continuous,1,11,43,Kigumi,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0646,2,continuous,1,11,43,Kigumi,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0645,2,continuous,1,11,43,Kigumi,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0644,1,continuous,1,11,43,Kigumi,no_vacc,NA,0,,1,0,NA,,NA,Mara,2
+RCT0643,2,continuous,1,11,43,Kigumi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0642,3,continuous,1,11,43,Kigumi,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0641,3,continuous,1,11,43,Kigumi,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT1221,1,continuous,2,1,31,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1220,1,continuous,2,1,31,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1219,1,continuous,2,1,31,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1218,1,continuous,2,1,31,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1217,1,continuous,2,1,31,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1216,3,continuous,2,1,31,Kabwana,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1214,1,continuous,2,1,31,Kabwana,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1213,2,continuous,2,1,31,Kabwana,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1211,1,continuous,2,1,31,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1231,2,continuous,2,1,31,Ryangubo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1230,2,continuous,2,1,31,Ryangubo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1229,1,continuous,2,1,31,Ryangubo,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1228,1,continuous,2,1,31,Ryangubo,yes_vacc,1,0,yes_card,2,1,NA,no,1,Mara,1
+RCT1227,1,continuous,2,1,31,Ryangubo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1226,4,continuous,2,1,31,Ryangubo,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1225,1,continuous,2,1,31,Ryangubo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1224,1,continuous,2,1,31,Ryangubo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1223,2,continuous,2,1,31,Ryangubo,yes_vacc,2,0,yes_card,2,1,NA,no,1,Mara,1
+RCT1222,2,continuous,2,1,31,Ryangubo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT0670,5,continuous,1,11,38,Kwisangura A,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,2
+RCT0669,2,continuous,1,11,38,Kwisangura A,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0668,1,continuous,1,11,38,Kwisangura A,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0667,1,continuous,1,11,38,Kwisangura A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0666,2,continuous,1,11,38,Kwisangura A,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0665,2,continuous,1,11,38,Kwisangura A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0664,1,continuous,1,11,38,Kwisangura A,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0663,4,continuous,1,11,38,Kwisangura A,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0662,3,continuous,1,11,38,Kwisangura A,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0661,5,continuous,1,11,38,Kwisangura A,no_vacc,NA,5,,5,0,NA,,NA,Mara,2
+RCT0660,3,continuous,1,11,38,Kiabukima,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0659,2,continuous,1,11,38,Kiabukima,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0658,4,continuous,1,11,38,Kiabukima,no_vacc,NA,4,,4,8,NA,,NA,Mara,2
+RCT0657,11,continuous,1,11,38,Kiabukima,yes_vacc,1,10,unknown,11,1,NA,no,0,Mara,2
+RCT0656,3,continuous,1,11,38,Kiabukima,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0655,6,continuous,1,11,38,Kiabukima,yes_vacc,4,2,yes_card,6,4,NA,no,4,Mara,2
+RCT0654,3,continuous,1,11,38,Kiabukima,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0653,3,continuous,1,11,38,Kiabukima,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0652,4,continuous,1,11,38,Kiabukima,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0651,2,continuous,1,11,38,Kiabukima,yes_vacc,2,0,unknown,2,2,NA,no,2,Mara,2
+RCT0070,1,continuous,2,5,9,Mumwamu,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0090,4,continuous,2,5,9,Nyanungu,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,0
+RCT0069,3,continuous,2,5,9,Mumwamu,yes_vacc,3,0,yes_card,2,3,NA,no,3,Mara,0
+RCT0089,2,continuous,2,5,9,Nyanungu,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0068,1,continuous,2,5,9,Mumwamu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0088,2,continuous,2,5,9,Nyanungu,yes_vacc,2,0,yes_card,1,2,NA,no,2,Mara,0
+RCT0067,1,continuous,2,5,9,Mumwamu,no_vacc,NA,1,,0,0,NA,,NA,Mara,0
+RCT0087,1,continuous,2,5,9,Nyanungu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0066,2,continuous,2,5,9,Mumwamu,yes_vacc,1,1,yes_card,0,1,NA,no,1,Mara,0
+RCT0065,4,continuous,2,5,9,Mumwamu,yes_vacc,4,0,yes_card,0,0,NA,no,4,Mara,0
+RCT0064,1,continuous,2,5,9,Mumwamu,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0063,2,continuous,2,5,9,Mumwamu,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0062,5,continuous,2,5,9,Mumwamu,yes_vacc,4,1,yes_card,0,4,NA,no,1,Mara,0
+RCT0086,1,continuous,2,5,9,Nyanungu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0085,4,continuous,2,5,9,Nyanungu,yes_vacc,3,1,yes_card,2,3,NA,no,3,Mara,0
+RCT0084,1,continuous,2,5,9,Nyanungu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0083,1,continuous,2,5,9,Nyanungu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0082,2,continuous,2,5,9,Nyanungu,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0061,1,continuous,2,5,9,Mumwamu,yes_vacc,1,1,yes_card,0,0,NA,no,1,Mara,0
+RCT0080,1,continuous,2,5,9,Getena,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0079,2,continuous,2,5,9,Getena,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0078,3,continuous,2,5,9,Getena,no_vacc,NA,3,,0,0,NA,,NA,Mara,0
+RCT0081,1,continuous,2,5,9,Nyanungu,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0077,4,continuous,2,5,9,Getena,yes_vacc,1,3,yes_card,1,1,NA,no,1,Mara,0
+RCT0076,2,continuous,2,5,9,Getena,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0075,3,continuous,2,5,9,Getena,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0074,2,continuous,2,5,9,Getena,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0073,2,continuous,2,5,9,Getena,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0072,1,continuous,2,5,9,Getena,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0071,2,continuous,2,5,9,Getena,yes_vacc,2,0,yes_card,0,2,NA,no,2,Mara,0
+RCT0690,1,continuous,2,8,45,Mtukula,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0689,1,continuous,2,8,45,Mtukula,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0688,1,continuous,2,8,45,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0687,2,continuous,2,8,45,Mtukula,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0686,1,continuous,2,8,45,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0685,3,continuous,2,8,45,Mtukula,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0684,2,continuous,2,8,45,Mtukula,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0683,3,continuous,2,8,45,Mtukula,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0682,4,continuous,2,8,45,Mtukula,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0681,2,continuous,2,8,45,Mtukula,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0680,5,continuous,1,11,38,Senta A,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,2
+RCT0679,2,continuous,1,11,38,Senta A,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0678,3,continuous,1,11,38,Senta A,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0700,2,continuous,2,8,45,Bitotoni,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0699,4,continuous,2,8,45,Bitotoni,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0698,1,continuous,2,8,45,Bitotoni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0697,4,continuous,2,8,45,Bitotoni,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0696,1,continuous,2,8,45,Bitotoni,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0695,4,continuous,2,8,45,Bitotoni,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0694,3,continuous,2,8,45,Bitotoni,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0693,1,continuous,2,8,45,Bitotoni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0692,2,continuous,2,8,45,Bitotoni,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0691,4,continuous,2,8,45,Bitotoni,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0710,2,continuous,2,8,45,Senta B,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0709,1,continuous,2,8,45,Senta B,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0708,3,continuous,2,8,45,Senta B,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0707,2,continuous,2,8,45,Senta B,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0706,4,continuous,2,8,45,Senta B,yes_vacc,3,1,yes_card,4,3,NA,no,4,Mara,2
+RCT0705,3,continuous,2,8,45,Senta B,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0704,3,continuous,2,8,45,Senta B,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0703,1,continuous,2,8,45,Senta B,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0702,1,continuous,2,8,45,Senta B,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0701,3,continuous,2,8,45,Senta B,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0730,2,continuous,2,8,28,Majengo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0729,3,continuous,2,8,28,Majengo,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0728,1,continuous,2,8,28,Majengo,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0727,1,continuous,2,8,28,Majengo,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0726,2,continuous,2,8,28,Majengo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0725,2,continuous,2,8,28,Majengo,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0724,2,continuous,2,8,28,Majengo,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0723,3,continuous,2,8,28,Majengo,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0722,2,continuous,2,8,28,Majengo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0721,3,continuous,2,8,28,Majengo,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0720,1,continuous,2,8,28,Nyandewa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0719,1,continuous,2,8,28,Nyandewa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0718,2,continuous,2,8,28,Nyandewa,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0717,3,continuous,2,8,28,Nyandewa,yes_vacc,1,2,yes_card,2,1,NA,no,1,Mara,2
+RCT0716,4,continuous,2,8,28,Nyandewa,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0715,1,continuous,2,8,28,Nyandewa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0714,2,continuous,2,8,28,Nyandewa,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0713,5,continuous,2,8,28,Nyandewa,yes_vacc,1,4,yes_card,5,1,NA,no,1,Mara,2
+RCT0712,2,continuous,2,8,28,Nyandewa,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0711,2,continuous,2,8,28,Nyandewa,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0150,3,continuous,2,5,12,Kwibate,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0149,1,continuous,2,5,12,Kwibate,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0148,2,continuous,2,5,12,Kwibate,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0147,1,continuous,2,5,12,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0146,1,continuous,2,5,12,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0145,2,continuous,2,5,12,Kwibate,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0144,1,continuous,2,5,12,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0143,1,continuous,2,5,12,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0142,2,continuous,2,5,12,Kwibate,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0141,2,continuous,2,5,12,Kwibate,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0140,4,continuous,2,5,12,Isorya,yes_vacc,2,2,yes_card,2,2,NA,no,2,Mara,0
+RCT0139,2,continuous,2,5,12,Isorya,yes_vacc,2,2,yes_card,2,2,NA,no,2,Mara,0
+RCT0138,3,continuous,2,5,12,Isorya,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,0
+RCT0137,2,continuous,2,5,12,Isorya,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0136,1,continuous,2,5,12,Isorya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0135,2,continuous,2,5,12,Isorya,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0134,2,continuous,2,5,12,Isorya,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0133,2,continuous,2,5,12,Isorya,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0132,1,continuous,2,5,12,Isorya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0131,1,continuous,2,5,12,Isorya,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0130,2,continuous,2,5,12,Borasa,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0129,7,continuous,2,5,12,Borasa,yes_vacc,1,6,yes_card,1,1,NA,no,1,Mara,0
+RCT0128,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0127,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0126,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0125,3,continuous,2,5,12,Borasa,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,0
+RCT0124,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0123,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0122,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0121,1,continuous,2,5,12,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0120,1,continuous,2,5,10,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0119,1,continuous,2,5,10,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0118,1,continuous,2,5,10,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0117,1,continuous,2,5,10,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0116,3,continuous,2,5,10,Kebose,yes_vacc,1,2,yes_card,1,1,NA,no,1,Mara,0
+RCT0115,1,continuous,2,5,10,Kebose,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0114,1,continuous,2,5,10,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0113,4,continuous,2,5,10,Kebose,yes_vacc,3,1,yes_card,3,3,NA,no,3,Mara,0
+RCT0112,1,continuous,2,5,10,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0111,2,continuous,2,5,10,Kebose,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0110,1,continuous,2,5,10,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0109,2,continuous,2,5,10,Ikorongo,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,0
+RCT0108,1,continuous,2,5,10,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0107,1,continuous,2,5,10,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0106,1,continuous,2,5,10,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0105,2,continuous,2,5,10,Ikorongo,yes_vacc,1,1,yes_card,0,1,NA,no,1,Mara,0
+RCT0104,1,continuous,2,5,10,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0103,1,continuous,2,5,10,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0102,4,continuous,2,5,10,Ikorongo,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,0
+RCT0101,2,continuous,2,5,10,Ikorongo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0100,1,continuous,2,5,10,Manguncha Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0099,3,continuous,2,5,10,Manguncha Senta,no_vacc,NA,3,,3,0,NA,,NA,Mara,0
+RCT0098,2,continuous,2,5,10,Manguncha Senta,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0097,3,continuous,2,5,10,Manguncha Senta,yes_vacc,3,0,yes_card,2,3,NA,no,3,Mara,0
+RCT0096,1,continuous,2,5,10,Manguncha Senta,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0095,3,continuous,2,5,10,Manguncha Senta,unknown,NA,0,,1,0,NA,,NA,Mara,0
+RCT0094,2,continuous,2,5,10,Manguncha Senta,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0093,1,continuous,2,5,10,Manguncha Senta,unknown,NA,0,,1,0,NA,,NA,Mara,0
+RCT0092,3,continuous,2,5,10,Manguncha Senta,yes_vacc,1,2,yes_card,1,1,NA,no,1,Mara,0
+RCT0091,2,continuous,2,5,10,Manguncha Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0740,2,continuous,2,8,28,Komachare,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0739,1,continuous,2,8,28,Komachare,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0738,7,continuous,2,8,28,Komachare,yes_vacc,3,4,yes_card,7,3,NA,no,3,Mara,2
+RCT0737,4,continuous,2,8,28,Komachare,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0736,3,continuous,2,8,28,Komachare,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0735,4,continuous,2,8,28,Komachare,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0734,1,continuous,2,8,28,Komachare,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0733,1,continuous,2,8,28,Komachare,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0732,5,continuous,2,8,28,Komachare,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,2
+RCT0731,2,continuous,2,8,28,Komachare,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0760,1,continuous,2,8,30,Rwasereta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0759,1,continuous,2,8,30,Rwasereta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0758,3,continuous,2,8,30,Rwasereta,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0757,3,continuous,2,8,30,Rwasereta,yes_vacc,2,1,yes_card,3,2,NA,no,1,Mara,2
+RCT0756,2,continuous,2,8,30,Rwasereta,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0755,3,continuous,2,8,30,Rwasereta,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0754,4,continuous,2,8,30,Rwasereta,yes_vacc,3,1,yes_card,4,3,NA,no,3,Mara,2
+RCT0753,4,continuous,2,8,30,Rwasereta,yes_vacc,3,1,yes_card,4,3,NA,no,3,Mara,2
+RCT0752,2,continuous,2,8,30,Rwasereta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0751,3,continuous,2,8,30,Rwasereta,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0750,3,continuous,2,8,30,Komaraha,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0749,4,continuous,2,8,30,Komaraha,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0748,2,continuous,2,8,30,Komaraha,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0747,2,continuous,2,8,30,Komaraha,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0746,2,continuous,2,8,30,Komaraha,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0745,1,continuous,2,8,30,Komaraha,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0744,1,continuous,2,8,30,Komaraha,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0743,4,continuous,2,8,30,Komaraha,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0742,2,continuous,2,8,30,Komaraha,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0741,2,continuous,2,8,30,Komaraha,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0180,2,continuous,3,2,5,Tisya,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0179,1,continuous,3,2,5,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0178,1,continuous,3,2,5,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0177,1,continuous,3,2,5,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0176,3,continuous,3,2,5,Tisya,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0175,4,continuous,3,2,5,Tisya,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,0
+RCT0174,1,continuous,3,2,5,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0173,5,continuous,3,2,5,Tisya,yes_vacc,1,4,yes_card,1,1,NA,no,1,Mara,0
+RCT0172,1,continuous,3,2,5,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0171,1,continuous,3,2,5,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0170,3,continuous,3,2,5,Nyankoni,no_vacc,NA,3,,3,0,NA,,NA,Mara,0
+RCT0169,2,continuous,3,2,5,Nyankoni,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0168,2,continuous,3,2,5,Nyankoni,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0167,1,continuous,3,2,5,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0166,1,continuous,3,2,5,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0165,1,continuous,3,2,5,Nyankoni,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0164,1,continuous,3,2,5,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0163,1,continuous,3,2,5,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0162,5,continuous,3,2,5,Nyankoni,yes_vacc,2,3,yes_card,2,2,NA,no,2,Mara,0
+RCT0161,2,continuous,3,2,5,Nyankoni,yes_vacc,1,1,yes_card,2,1,NA,no,2,Mara,0
+RCT0160,3,continuous,3,2,5,Gitimama,yes_vacc,1,2,yes_card,1,1,NA,no,1,Mara,0
+RCT0159,2,continuous,3,2,5,Gitimama,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0158,1,continuous,3,2,5,Gitimama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0157,2,continuous,3,2,5,Gitimama,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0156,1,continuous,3,2,5,Gitimama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0155,2,continuous,3,2,5,Gitimama,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0154,1,continuous,3,2,5,Gitimama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0153,3,continuous,3,2,5,Gitimama,yes_vacc,1,2,yes_card,1,1,NA,no,1,Mara,0
+RCT0152,2,continuous,3,2,5,Gitimama,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0151,3,continuous,3,2,5,Gitimama,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0770,1,continuous,2,8,30,Kitaramanka,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0769,6,continuous,2,8,30,Kitaramanka,yes_vacc,6,0,yes_card,6,6,NA,no,6,Mara,2
+RCT0768,1,continuous,2,8,30,Kitaramanka,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0767,3,continuous,2,8,30,Kitaramanka,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0766,3,continuous,2,8,30,Kitaramanka,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0765,1,continuous,2,8,30,Kitaramanka,no_vacc,NA,1,,1,8,NA,,NA,Mara,2
+RCT0764,3,continuous,2,8,30,Kitaramanka,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0763,2,continuous,2,8,30,Kitaramanka,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0762,1,continuous,2,8,30,Kitaramanka,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0761,3,continuous,2,8,30,Kitaramanka,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0780,1,continuous,2,8,44,Mwiringo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0779,9,continuous,2,8,44,Mwiringo,yes_vacc,3,6,yes_card,9,3,NA,no,3,Mara,2
+RCT0778,7,continuous,2,8,44,Mwiringo,yes_vacc,2,5,yes_card,7,2,NA,no,2,Mara,2
+RCT0777,2,continuous,2,8,44,Mwiringo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0776,2,continuous,2,8,44,Mwiringo,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0775,2,continuous,2,8,44,Mwiringo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0774,1,continuous,2,8,44,Mwiringo,yes_vacc,1,0,no_card,1,1,NA,no,1,Mara,2
+RCT0773,1,continuous,2,8,44,Mwiringo,yes_vacc,1,0,unknown,1,1,NA,no,1,Mara,2
+RCT0772,2,continuous,2,8,44,Mwiringo,yes_vacc,2,0,yes_card,2,0,NA,no,2,Mara,2
+RCT0771,3,continuous,2,8,44,Mwiringo,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0790,4,continuous,2,8,44,Kyamaiha,yes_vacc,3,1,yes_card,4,3,NA,no,3,Mara,2
+RCT0789,2,continuous,2,8,44,Kyamaiha,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0788,6,continuous,2,8,44,Kyamaiha,yes_vacc,4,2,yes_card,4,4,NA,no,4,Mara,2
+RCT0787,1,continuous,2,8,44,Kyamaiha,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0786,3,continuous,2,8,44,Kyamaiha,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0785,1,continuous,2,8,44,Kyamaiha,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0784,3,continuous,2,8,44,Kyamaiha,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0783,3,continuous,2,8,44,Kyamaiha,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0782,3,continuous,2,8,44,Kyamaiha,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0781,1,continuous,2,8,44,Kyamaiha,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0800,4,continuous,2,8,44,Nyamimange,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0799,6,continuous,2,8,44,Nyamimange,yes_vacc,3,3,yes_card,6,3,NA,no,3,Mara,2
+RCT0798,4,continuous,2,8,44,Nyamimange,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0797,1,continuous,2,8,44,Nyamimange,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0796,14,continuous,2,8,44,Nyamimange,yes_vacc,2,12,yes_card,14,2,NA,no,2,Mara,2
+RCT0795,1,continuous,2,8,44,Nyamimange,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0794,1,continuous,2,8,44,Nyamimange,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0793,1,continuous,2,8,44,Nyamimange,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0792,1,continuous,2,8,44,Nyamimange,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0791,2,continuous,2,8,44,Nyamimange,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0810,1,continuous,3,7,18,Kabwasi,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0809,1,continuous,3,7,18,Kabwasi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0808,2,continuous,3,7,18,Kabwasi,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0807,4,continuous,3,7,18,Kabwasi,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0806,2,continuous,3,7,18,Kabwasi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0805,5,continuous,3,7,18,Kabwasi,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,2
+RCT0804,4,continuous,3,7,18,Kabwasi,yes_vacc,4,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0803,1,continuous,3,7,18,Kabwasi,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0802,2,continuous,3,7,18,Kabwasi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0801,4,continuous,3,7,18,Kabwasi,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0820,5,continuous,3,7,18,Sania,yes_vacc,2,3,yes_card,5,2,NA,no,2,Mara,2
+RCT0819,3,continuous,3,7,18,Sania,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0818,3,continuous,3,7,18,Sania,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0817,3,continuous,3,7,18,Sania,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0816,4,continuous,3,7,18,Sania,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0815,3,continuous,3,7,18,Sania,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0814,1,continuous,3,7,18,Sania,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0813,1,continuous,3,7,18,Sania,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0812,2,continuous,3,7,18,Sania,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0811,3,continuous,3,7,18,Sania,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0840,8,continuous,3,7,21,Nyamsense,yes_vacc,2,6,yes_card,8,2,NA,no,2,Mara,2
+RCT0839,1,continuous,3,7,21,Nyamsense,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0838,3,continuous,3,7,21,Nyamsense,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0837,3,continuous,3,7,21,Nyamsense,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0836,1,continuous,3,7,21,Nyamsense,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0835,2,continuous,3,7,21,Nyamsense,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0834,1,continuous,3,7,21,Nyamsense,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0833,2,continuous,3,7,21,Nyamsense,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,2
+RCT0832,1,continuous,3,7,21,Nyamsense,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0831,4,continuous,3,7,21,Nyamsense,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,2
+RCT0830,3,continuous,3,7,18,Mtakuja1,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0829,1,continuous,3,7,18,Mtakuja1,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0828,3,continuous,3,7,18,Mtakuja1,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0827,8,continuous,3,7,18,Mtakuja1,yes_vacc,1,0,yes_card,8,1,NA,no,1,Mara,2
+RCT0826,1,continuous,3,7,18,Mtakuja1,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0825,1,continuous,3,7,18,Mtakuja1,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0824,2,continuous,3,7,18,Mtakuja1,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0823,4,continuous,3,7,18,Mtakuja1,yes_vacc,4,0,yes_card,4,4,NA,no,0,Mara,2
+RCT0822,3,continuous,3,7,18,Mtakuja1,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0821,4,continuous,3,7,18,Mtakuja1,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0850,3,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0849,3,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,2,1,yes_card,2,2,NA,no,2,Mara,2
+RCT0848,5,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,3,2,yes_card,5,3,NA,no,3,Mara,2
+RCT0847,2,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0846,3,continuous,3,7,21,Ikongo la Kisyeri,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0845,5,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,5,0,yes_card,5,5,NA,no,5,Mara,2
+RCT0844,1,continuous,3,7,21,Ikongo la Kisyeri,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0843,4,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,3,1,yes_card,4,3,NA,no,3,Mara,2
+RCT0842,9,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,3,6,yes_card,9,3,NA,no,0,Mara,2
+RCT0841,1,continuous,3,7,21,Ikongo la Kisyeri,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0190,1,continuous,3,2,2,Isago,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0189,2,continuous,3,2,2,Isago,yes_vacc,2,0,unknown,2,2,NA,no,0,Mara,0
+RCT0188,1,continuous,3,2,2,Isago,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0187,1,continuous,3,2,2,Isago,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0186,2,continuous,3,2,2,Isago,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0185,3,continuous,3,2,2,Isago,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0184,1,continuous,3,2,2,Isago,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0183,1,continuous,3,2,2,Isago,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0182,1,continuous,3,2,2,Isago,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0210,3,continuous,3,2,2,Birira,yes_vacc,3,0,yes_card,3,0,NA,no,3,Mara,0
+RCT0181,3,continuous,3,2,2,Isago,yes_vacc,3,0,yes_card,1,1,NA,no,3,Mara,0
+RCT0209,2,continuous,3,2,2,Birira,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0208,2,continuous,3,2,2,Birira,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0200,2,continuous,3,2,2,Kangariani senta,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,0
+RCT0207,2,continuous,3,2,2,Birira,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0199,2,continuous,3,2,2,Kangariani senta,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0198,1,continuous,3,2,2,Kangariani senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0206,1,continuous,3,2,2,Birira,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0205,2,continuous,3,2,2,Birira,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0197,1,continuous,3,2,2,Kangariani senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0204,2,continuous,3,2,2,Birira,yes_vacc,1,1,no_card,1,0,NA,no,0,Mara,0
+RCT0196,1,continuous,3,2,2,Kangariani senta,yes_vacc,1,0,yes_card,1,1,NA,no,0,Mara,0
+RCT0203,1,continuous,3,2,2,Birira,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0195,4,continuous,3,2,2,Kangariani senta,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,0
+RCT0202,1,continuous,3,2,2,Birira,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0194,2,continuous,3,2,2,Kangariani senta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0193,2,continuous,3,2,2,Kangariani senta,yes_vacc,1,1,yes_card,1,0,NA,no,1,Mara,0
+RCT0201,2,continuous,3,2,2,Birira,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0192,1,continuous,3,2,2,Kangariani senta,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0191,1,continuous,3,2,2,Kangariani senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT1262,1,pulse,0,3,6,Senta,yes_vacc,1,0,yes_card,1,1,1,yes,1,Mara,1
+RCT1261,2,pulse,0,3,6,Senta,yes_vacc,2,0,yes_card,1,2,NA,no,2,Mara,1
+RCT1260,1,pulse,0,3,6,Senta,no_vacc,NA,1,,1,1,NA,,NA,Mara,1
+RCT1259,2,pulse,0,3,6,Senta,yes_vacc,2,1,yes_card,2,1,1,yes,1,Mara,1
+RCT1258,2,pulse,0,3,6,Senta,yes_vacc,2,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1257,1,pulse,0,3,6,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1256,1,pulse,0,3,6,Senta,no_vacc,NA,1,,1,1,NA,,NA,Mara,1
+RCT1255,6,pulse,0,3,6,Senta,yes_vacc,2,0,yes_card,2,1,NA,no,2,Mara,1
+RCT1254,1,pulse,0,3,6,Senta,yes_vacc,1,0,yes_card,1,0,1,yes,1,Mara,1
+RCT1232,1,pulse,0,3,6,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1242,1,pulse,0,3,6,Songambele,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT1241,4,pulse,0,3,6,Songambele,yes_vacc,2,2,yes_card,3,0,NA,no,2,Mara,1
+RCT1252,1,pulse,0,3,6,Shule,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1251,3,pulse,0,3,6,Shule,yes_vacc,3,0,yes_card,3,1,NA,no,3,Mara,1
+RCT1250,1,pulse,0,3,6,Shule,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1249,1,pulse,0,3,6,Shule,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1248,1,pulse,0,3,6,Shule,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1247,3,pulse,0,3,6,Shule,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1246,1,pulse,0,3,6,Shule,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1245,1,pulse,0,3,6,Shule,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1244,7,pulse,0,3,6,Shule,yes_vacc,1,0,yes_card,7,1,NA,no,1,Mara,1
+RCT1243,2,pulse,0,3,6,Shule,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT0860,2,continuous,3,7,21,Kiagata Ndogo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0859,5,continuous,3,7,21,Kiagata Ndogo,yes_vacc,2,3,yes_card,5,2,NA,no,2,Mara,2
+RCT0858,3,continuous,3,7,21,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0857,2,continuous,3,7,21,Kiagata Ndogo,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0856,3,continuous,3,7,21,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0855,1,continuous,3,7,21,Kiagata Ndogo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0854,1,continuous,3,7,21,Kiagata Ndogo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0853,3,continuous,3,7,21,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0852,1,continuous,3,7,21,Kiagata Ndogo,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0851,3,continuous,3,7,21,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,2
+RCT0870,3,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0869,3,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0868,1,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0867,2,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0866,1,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0865,3,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,3,,0,0,NA,,NA,Mara,2
+RCT0864,1,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0863,5,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,5,,5,0,NA,,NA,Mara,2
+RCT0862,2,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0861,3,pulse,0,10,33,Nyabitaramanka,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0880,11,pulse,0,10,33,Nyang'ombe,yes_vacc,1,10,yes_card,11,1,NA,no,1,Mara,2
+RCT0879,1,pulse,0,10,33,Nyang'ombe,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0878,1,pulse,0,10,33,Nyang'ombe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0877,3,pulse,0,10,33,Nyang'ombe,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0876,3,pulse,0,10,33,Nyang'ombe,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0875,3,pulse,0,10,33,Nyang'ombe,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0874,2,pulse,0,10,33,Nyang'ombe,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0873,1,pulse,0,10,33,Nyang'ombe,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0872,2,pulse,0,10,33,Nyang'ombe,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0871,1,pulse,0,10,33,Nyang'ombe,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0240,2,continuous,3,2,4,Senta,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0239,8,continuous,3,2,4,Senta,yes_vacc,1,7,yes_card,8,1,NA,no,1,Mara,0
+RCT0238,1,continuous,3,2,4,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0237,2,continuous,3,2,4,Senta,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0236,1,continuous,3,2,4,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0235,1,continuous,3,2,4,Senta,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0234,1,continuous,3,2,4,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0233,1,continuous,3,2,4,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0232,1,continuous,3,2,4,Senta,no_vacc,NA,1,,0,0,NA,,NA,Mara,0
+RCT0231,2,continuous,3,2,4,Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0230,1,continuous,3,2,4,Nyaitebe,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0229,1,continuous,3,2,4,Nyaitebe,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0228,2,continuous,3,2,4,Nyaitebe,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0227,1,continuous,3,2,4,Nyaitebe,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0226,2,continuous,3,2,4,Nyaitebe,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,0
+RCT0225,1,continuous,3,2,4,Nyaitebe,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0224,1,continuous,3,2,4,Nyaitebe,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0223,3,continuous,3,2,4,Nyaitebe,yes_vacc,3,0,no_card,3,3,NA,no,0,Mara,0
+RCT0222,2,continuous,3,2,4,Nyaitebe,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0221,3,continuous,3,2,4,Nyaitebe,yes_vacc,3,0,no_card,0,0,NA,no,0,Mara,0
+RCT0220,1,continuous,3,2,4,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0220,1,continuous,3,2,4,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0220,1,continuous,3,2,4,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0220,1,continuous,3,2,4,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0219,1,continuous,3,2,4,Manyata,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0219,1,continuous,3,2,4,Manyata,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0219,1,continuous,3,2,4,Manyata,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0219,1,continuous,3,2,4,Manyata,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0218,1,continuous,3,2,4,Manyata,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0218,1,continuous,3,2,4,Manyata,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0217,2,continuous,3,2,4,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0217,2,continuous,3,2,4,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0216,1,continuous,3,2,4,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0216,1,continuous,3,2,4,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0215,2,continuous,3,2,4,Manyata,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0215,2,continuous,3,2,4,Manyata,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0214,2,continuous,3,2,4,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0214,2,continuous,3,2,4,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0213,2,continuous,3,2,4,Manyata,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,0
+RCT0213,2,continuous,3,2,4,Manyata,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,0
+RCT0212,1,continuous,3,2,4,Manyata,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0212,1,continuous,3,2,4,Manyata,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0211,1,continuous,3,2,4,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0211,1,continuous,3,2,4,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0890,2,pulse,0,10,33,Kurutambi,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0889,4,pulse,0,10,33,Kurutambi,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0888,1,pulse,0,10,33,Kurutambi,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0887,3,pulse,0,10,33,Kurutambi,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0886,2,pulse,0,10,33,Kurutambi,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0885,2,pulse,0,10,33,Kurutambi,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0884,3,pulse,0,10,33,Kurutambi,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0883,4,pulse,0,10,33,Kurutambi,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0882,1,pulse,0,10,33,Kurutambi,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0881,5,pulse,0,10,33,Kurutambi,no_vacc,NA,5,,5,0,NA,,NA,Mara,2
+RCT0900,3,pulse,0,10,36,Nyansirori,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0899,4,pulse,0,10,36,Nyansirori,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,2
+RCT0898,2,pulse,0,10,36,Nyansirori,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0897,5,pulse,0,10,36,Nyansirori,yes_vacc,1,4,yes_card,5,1,NA,no,1,Mara,2
+RCT0896,4,pulse,0,10,36,Nyansirori,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0895,2,pulse,0,10,36,Nyansirori,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0894,2,pulse,0,10,36,Nyansirori,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0893,1,pulse,0,10,36,Nyansirori,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0892,1,pulse,0,10,36,Nyansirori,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0891,1,pulse,0,10,36,Nyansirori,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0910,4,pulse,0,10,36,Nyamurasa,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,2
+RCT0909,2,pulse,0,10,36,Nyamurasa,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0908,2,pulse,0,10,36,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0907,2,pulse,0,10,36,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0906,2,pulse,0,10,36,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0905,1,pulse,0,10,36,Nyamurasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0904,1,pulse,0,10,36,Nyamurasa,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0903,2,pulse,0,10,36,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0902,1,pulse,0,10,36,Nyamurasa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0901,3,pulse,0,10,36,Nyamurasa,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,2
+RCT0270,2,continuous,1,6,16,Kiobhoke,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0269,1,continuous,1,6,16,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0268,1,continuous,1,6,16,Kiobhoke,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0267,1,continuous,1,6,16,Kiobhoke,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0266,1,continuous,1,6,16,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0265,2,continuous,1,6,16,Kiobhoke,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0264,1,continuous,1,6,16,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0263,3,continuous,1,6,16,Kiobhoke,yes_vacc,2,1,yes_card,2,2,NA,no,2,Mara,0
+RCT0262,1,continuous,1,6,16,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0261,1,continuous,1,6,16,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0260,1,continuous,1,6,16,Nyamagongwe,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0259,2,continuous,1,6,16,Nyamagongwe,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0258,1,continuous,1,6,16,Nyamagongwe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0257,1,continuous,1,6,16,Nyamagongwe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0256,2,continuous,1,6,16,Nyamagongwe,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0255,3,continuous,1,6,16,Nyamagongwe,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0254,6,continuous,1,6,16,Nyamagongwe,yes_vacc,6,0,yes_card,6,6,NA,no,6,Mara,0
+RCT0253,3,continuous,1,6,16,Nyamagongwe,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0252,1,continuous,1,6,16,Nyamagongwe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0251,2,continuous,1,6,16,Nyamagongwe,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0250,9,continuous,1,6,16,Ngonche,yes_vacc,2,7,yes_card,2,2,NA,no,2,Mara,0
+RCT0249,1,continuous,1,6,16,Ngonche,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0248,3,continuous,1,6,16,Ngonche,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0247,4,continuous,1,6,16,Ngonche,yes_vacc,2,2,yes_card,2,2,NA,no,2,Mara,0
+RCT0246,4,continuous,1,6,16,Ngonche,yes_vacc,1,3,yes_card,1,1,NA,no,1,Mara,0
+RCT0245,2,continuous,1,6,16,Ngonche,yes_vacc,1,1,yes_card,1,1,NA,no,1,Mara,0
+RCT0244,7,continuous,1,6,16,Ngonche,yes_vacc,3,4,yes_card,3,3,NA,no,3,Mara,0
+RCT0243,1,continuous,1,6,16,Ngonche,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0242,2,continuous,1,6,16,Ngonche,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0241,1,continuous,1,6,16,Ngonche,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0920,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0920,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0920,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0920,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0919,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0919,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0919,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0919,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0918,3,pulse,0,10,36,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0918,3,pulse,0,10,36,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0918,3,pulse,0,10,36,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0918,3,pulse,0,10,36,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0916,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0916,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0915,3,pulse,0,10,36,Chamasabeta,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0915,3,pulse,0,10,36,Chamasabeta,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0914,3,pulse,0,10,36,Chamasabeta,yes_vacc,3,0,yes_card,3,0,3,yes,3,Mara,2
+RCT0914,3,pulse,0,10,36,Chamasabeta,yes_vacc,3,0,yes_card,3,0,3,yes,3,Mara,2
+RCT0913,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0913,1,pulse,0,10,36,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0912,1,pulse,0,10,36,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0912,1,pulse,0,10,36,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0911,1,pulse,0,10,36,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0911,1,pulse,0,10,36,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT1272,3,pulse,0,3,26,Nyakatende,yes_vacc,3,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1271,1,pulse,0,3,26,Nyakatende,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1270,1,pulse,0,3,26,Nyakatende,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1269,1,pulse,0,3,26,Nyakatende,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1302,2,pulse,0,3,24,Ngereri,yes_vacc,1,0,yes_card,2,1,NA,no,1,Mara,1
+RCT1301,1,pulse,0,3,24,Ngereri,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1300,2,pulse,0,3,24,Ngereri,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1299,3,pulse,0,3,24,Ngereri,no_vacc,NA,3,,3,0,NA,,NA,Mara,1
+RCT1282,4,pulse,0,3,26,Ititwe,yes_vacc,1,3,yes_card,2,0,NA,no,1,Mara,1
+RCT1281,4,pulse,0,3,26,Ititwe,yes_vacc,3,3,yes_card,2,2,NA,no,3,Mara,1
+RCT1280,2,pulse,0,3,26,Ititwe,no_vacc,NA,2,,3,0,NA,,NA,Mara,1
+RCT1279,1,pulse,0,3,26,Ititwe,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1278,3,pulse,0,3,26,Ititwe,yes_vacc,1,2,yes_card,2,1,NA,no,1,Mara,1
+RCT1277,3,pulse,0,3,26,Ititwe,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1276,1,pulse,0,3,26,Ititwe,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1275,2,pulse,0,3,26,Ititwe,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1274,4,pulse,0,3,26,Ititwe,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,1
+RCT1273,3,pulse,0,3,26,Ititwe,yes_vacc,2,1,yes_card,1,0,NA,no,2,Mara,1
+RCT1292,1,pulse,0,3,26,Malegeri,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,1
+RCT1291,1,pulse,0,3,26,Malegeri,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1290,1,pulse,0,3,26,Malegeri,no_vacc,NA,1,,2,0,NA,,NA,Mara,1
+RCT1289,1,pulse,0,3,26,Malegeri,no_vacc,NA,1,,1,1,NA,,NA,Mara,1
+RCT1288,3,pulse,0,3,26,Malegeri,yes_vacc,1,2,yes_card,1,1,NA,no,1,Mara,1
+RCT1287,3,pulse,0,3,26,Malegeri,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1286,4,pulse,0,3,26,Malegeri,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,1
+RCT1285,3,pulse,0,3,26,Malegeri,yes_vacc,3,0,yes_card,3,1,2,yes,3,Mara,1
+RCT0310,1,continuous,1,6,13,Nyaichirichiri,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0309,3,continuous,1,6,13,Nyaichirichiri,yes_vacc,2,1,no_card,2,1,NA,no,0,Mara,0
+RCT0308,2,continuous,1,6,13,Nyaichirichiri,yes_vacc,2,0,yes_card,2,1,NA,no,2,Mara,0
+RCT0307,3,continuous,1,6,13,Nyaichirichiri,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,0
+RCT0306,1,continuous,1,6,13,Nyaichirichiri,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0305,2,continuous,1,6,13,Nyaichirichiri,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0304,2,continuous,1,6,13,Nyaichirichiri,yes_vacc,1,1,no_card,0,0,NA,no,0,Mara,0
+RCT0303,1,continuous,1,6,13,Nyaichirichiri,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0302,2,continuous,1,6,13,Nyaichirichiri,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0301,2,continuous,1,6,13,Nyaichirichiri,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,0
+RCT0320,1,continuous,1,6,13,Nyantare,yes_vacc,1,0,yes_card,1,0,1,yes,1,Mara,0
+RCT0319,3,continuous,1,6,13,Nyantare,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0318,1,continuous,1,6,13,Nyantare,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0317,1,continuous,1,6,13,Nyantare,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0316,1,continuous,1,6,13,Nyantare,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0315,1,continuous,1,6,13,Nyantare,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0314,3,continuous,1,6,13,Nyantare,yes_vacc,2,1,yes_card,1,0,NA,no,2,Mara,0
+RCT0313,3,continuous,1,6,13,Nyantare,no_vacc,NA,3,,3,0,NA,,NA,Mara,0
+RCT0312,2,continuous,1,6,13,Nyantare,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0311,3,continuous,1,6,13,Nyantare,no_vacc,NA,3,,3,0,NA,,NA,Mara,0
+RCT0330,2,continuous,1,6,13,Kemoseti,yes_vacc,1,1,yes_card,1,0,NA,no,1,Mara,0
+RCT0329,1,continuous,1,6,13,Kemoseti,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0328,1,continuous,1,6,13,Kemoseti,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0327,2,continuous,1,6,13,Kemoseti,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0326,4,continuous,1,6,13,Kemoseti,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,0
+RCT0325,3,continuous,1,6,13,Kemoseti,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0324,1,continuous,1,6,13,Kemoseti,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0323,1,continuous,1,6,13,Kemoseti,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0322,1,continuous,1,6,13,Kemoseti,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0321,2,continuous,1,6,13,Kemoseti,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0300,1,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0299,3,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,0
+RCT0298,2,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,1,yes_card,2,1,NA,no,11,Mara,0
+RCT0297,1,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0296,1,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0295,2,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0294,2,continuous,1,6,14,Kitawasi Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0293,3,continuous,1,6,14,Kitawasi Senta,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0292,4,continuous,1,6,14,Kitawasi Senta,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,0
+RCT0291,2,continuous,1,6,14,Kitawasi Senta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0290,1,continuous,1,6,14,Remerera,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0289,1,continuous,1,6,14,Remerera,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0288,3,continuous,1,6,14,Remerera,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0287,1,continuous,1,6,14,Remerera,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0286,2,continuous,1,6,14,Remerera,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0285,4,continuous,1,6,14,Remerera,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,0
+RCT0284,5,continuous,1,6,14,Remerera,yes_vacc,4,1,yes_card,4,4,NA,no,4,Mara,0
+RCT0283,4,continuous,1,6,14,Remerera,yes_vacc,1,3,yes_card,4,1,NA,no,1,Mara,0
+RCT0282,1,continuous,1,6,14,Remerera,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0281,1,continuous,1,6,14,Remerera,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0280,3,continuous,1,6,14,Gibasisi,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0279,2,continuous,1,6,14,Gibasisi,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0277,2,continuous,1,6,14,Gibasisi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0277,4,continuous,1,6,14,Gibasisi,yes_vacc,3,1,yes_card,3,3,NA,no,3,Mara,0
+RCT0276,3,continuous,1,6,14,Gibasisi,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0275,1,continuous,1,6,14,Gibasisi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0274,2,continuous,1,6,14,Gibasisi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0273,1,continuous,1,6,14,Gibasisi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0272,1,continuous,1,6,14,Gibasisi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0271,2,continuous,1,6,14,Gibasisi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0350,2,continuous,1,6,15,Nyamerama,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0349,1,continuous,1,6,15,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0348,1,continuous,1,6,15,Nyamerama,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0347,1,continuous,1,6,15,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0346,1,continuous,1,6,15,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0345,2,continuous,1,6,15,Nyamerama,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0344,1,continuous,1,6,15,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0343,1,continuous,1,6,15,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0342,1,continuous,1,6,15,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0341,1,continuous,1,6,15,Nyamerama,no_vacc,NA,1,,1,1,NA,,NA,Mara,0
+RCT0340,1,continuous,1,6,15,Kemosae,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0339,1,continuous,1,6,15,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0338,1,continuous,1,6,15,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0337,1,continuous,1,6,15,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0336,2,continuous,1,6,15,Kemosae,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0335,2,continuous,1,6,15,Kemosae,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0334,1,continuous,1,6,15,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0333,1,continuous,1,6,15,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0332,1,continuous,1,6,15,Kemosae,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0331,2,continuous,1,6,15,Kemosae,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT1352,2,pulse,0,3,19,Kyabuganga,no_vacc,NA,2,,NA,0,NA,,NA,Mara,1
+RCT1351,1,pulse,0,3,19,Kyabuganga,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1350,2,pulse,0,3,19,Kyabuganga,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1348,2,pulse,0,3,19,Kyabuganga,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1347,1,pulse,0,3,19,Kyabuganga,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1346,2,pulse,0,3,19,Kyabuganga,no_vacc,NA,2,,2,0,NA,,NA,Mara,1
+RCT1345,2,pulse,0,3,19,Kyabuganga,yes_vacc,1,0,yes_card,2,1,NA,no,1,Mara,1
+RCT1344,1,pulse,0,3,19,Kyabuganga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1343,1,pulse,0,3,19,Kyabuganga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1342,2,pulse,0,3,19,Mtakuja1,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1341,2,pulse,0,3,19,Mtakuja1,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1340,2,pulse,0,3,19,Mtakuja1,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,1
+RCT1339,1,pulse,0,3,19,Mtakuja1,no_vacc,NA,0,,1,0,NA,,NA,Mara,1
+RCT1338,2,pulse,0,3,19,Mtakuja1,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1337,1,pulse,0,3,19,Mtakuja1,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT1336,1,pulse,0,3,19,Mtakuja1,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1335,1,pulse,0,3,19,Mtakuja1,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1332,1,pulse,0,3,19,Kati,yes_vacc,1,0,yes_card,0,0,NA,no,13,Mara,1
+RCT1331,1,pulse,0,3,19,Kati,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1330,1,pulse,0,3,19,Kati,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1329,1,pulse,0,3,19,Kati,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1328,1,pulse,0,3,19,Kati,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1327,1,pulse,0,3,19,Kati,no_vacc,NA,0,,1,0,NA,,NA,Mara,1
+RCT1326,2,pulse,0,3,19,Kati,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,1
+RCT1325,1,pulse,0,3,19,Kati,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1324,2,pulse,0,3,19,Kati,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1323,4,pulse,0,3,19,Kati,no_vacc,NA,4,,3,0,NA,,NA,Mara,1
+RCT1322,5,pulse,0,3,24,Songambele,yes_vacc,1,4,no_card,5,0,NA,no,0,Mara,1
+RCT1321,1,pulse,0,3,24,Songambele,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1320,1,pulse,0,3,24,Songambele,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT1319,3,pulse,0,3,24,Songambele,yes_vacc,2,1,yes_card,1,0,NA,no,2,Mara,1
+RCT1318,1,pulse,0,3,24,Songambele,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1317,2,pulse,0,3,24,Songambele,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1316,2,pulse,0,3,24,Songambele,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,1
+RCT1315,3,pulse,0,3,24,Songambele,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,1
+RCT1314,2,pulse,0,3,24,Songambele,yes_vacc,1,1,yes_card,3,1,NA,no,1,Mara,1
+RCT1313,1,pulse,0,3,24,Songambele,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1312,3,pulse,0,3,24,irindibwa,yes_vacc,2,1,yes_card,3,1,NA,no,2,Mara,1
+RCT1311,5,pulse,0,3,24,irindibwa,yes_vacc,1,4,yes_card,4,1,NA,no,1,Mara,1
+RCT1310,2,pulse,0,3,24,irindibwa,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,1
+RCT1309,3,pulse,0,3,24,irindibwa,yes_vacc,1,2,yes_card,3,0,NA,no,1,Mara,1
+RCT1308,2,pulse,0,3,24,irindibwa,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,1
+RCT1307,1,pulse,0,3,24,irindibwa,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1306,3,pulse,0,3,24,irindibwa,yes_vacc,1,2,yes_card,2,0,NA,no,1,Mara,1
+RCT1305,1,pulse,0,3,24,irindibwa,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,1
+RCT1304,3,pulse,0,3,24,irindibwa,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,1
+RCT1303,1,pulse,0,3,24,irindibwa,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1298,1,pulse,0,3,24,Ngereri,no_vacc,NA,1,,1,1,NA,,NA,Mara,1
+RCT1297,1,pulse,0,3,24,Ngereri,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1296,1,pulse,0,3,24,Ngereri,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,1
+RCT1295,1,pulse,0,3,24,Ngereri,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,1
+RCT1294,7,pulse,0,3,24,Ngereri,yes_vacc,1,6,no_card,6,0,NA,no,0,Mara,1
+RCT1293,1,pulse,0,3,24,Ngereri,no_vacc,NA,1,,1,0,NA,,NA,Mara,1
+RCT0360,1,continuous,1,6,15,Kemangari,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0359,3,continuous,1,6,15,Kemangari,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0358,2,continuous,1,6,15,Kemangari,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,0
+RCT0357,1,continuous,1,6,15,Kemangari,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0356,2,continuous,1,6,15,Kemangari,yes_vacc,1,1,yes_card,1,0,NA,no,1,Mara,0
+RCT0355,3,continuous,1,6,15,Kemangari,yes_vacc,2,1,yes_card,2,1,NA,no,2,Mara,0
+RCT0354,3,continuous,1,6,15,Kemangari,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,0
+RCT0353,2,continuous,1,6,15,Kemangari,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0352,3,continuous,1,6,15,Kemangari,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0351,4,continuous,1,6,15,Kemangari,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,0
+RCT0400,1,pulse,0,0,23,Nyarusiaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0399,1,pulse,0,0,23,Nyarusiaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0398,1,pulse,0,0,23,Nyarusiaga,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0397,2,pulse,0,0,23,Nyarusiaga,yes_vacc,2,0,no_card,2,0,NA,no,0,Mara,0
+RCT0396,2,pulse,0,0,23,Nyarusiaga,yes_vacc,2,0,no_card,2,2,NA,no,0,Mara,0
+RCT0395,2,pulse,0,0,23,Nyarusiaga,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,0
+RCT0394,1,pulse,0,0,23,Nyarusiaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0393,1,pulse,0,0,23,Nyarusiaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0392,2,pulse,0,0,23,Nyarusiaga,yes_vacc,1,1,yes_card,1,0,NA,no,1,Mara,0
+RCT0391,1,pulse,0,0,23,Nyarusiaga,no_vacc,NA,0,,1,0,NA,,NA,Mara,0
+RCT0410,2,pulse,0,0,23,Gwikunili,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0409,1,pulse,0,0,23,Gwikunili,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0408,1,pulse,0,0,23,Gwikunili,no_vacc,NA,0,,1,0,NA,,NA,Mara,0
+RCT0407,1,pulse,0,0,23,Gwikunili,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0406,1,pulse,0,0,23,Gwikunili,yes_vacc,1,0,yes_card,1,0,NA,no,1,Mara,0
+RCT0405,2,pulse,0,0,23,Gwikunili,yes_vacc,2,0,yes_card,0,0,NA,no,2,Mara,0
+RCT0404,1,pulse,0,0,23,Gwikunili,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0403,1,pulse,0,0,23,Gwikunili,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0402,5,pulse,0,0,23,Gwikunili,yes_vacc,1,4,yes_card,5,1,NA,no,1,Mara,0
+RCT0401,3,pulse,0,0,23,Gwikunili,yes_vacc,2,1,yes_card,1,0,NA,no,2,Mara,0
+RCT0420,3,pulse,0,0,23,Senta,yes_vacc,1,2,yes_card,0,0,NA,no,1,Mara,0
+RCT0419,1,pulse,0,0,23,Senta,yes_vacc,1,0,no_card,0,0,NA,no,0,Mara,0
+RCT0418,1,pulse,0,0,23,Senta,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0417,1,pulse,0,0,23,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0416,1,pulse,0,0,23,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0415,1,pulse,0,0,23,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0414,3,pulse,0,0,23,Senta,yes_vacc,3,0,no_card,0,0,NA,no,0,Mara,0
+RCT0413,1,pulse,0,0,23,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0412,2,pulse,0,0,23,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0411,1,pulse,0,0,23,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0460,2,pulse,0,0,3,Moharango,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0459,2,pulse,0,0,3,Moharango,no_vacc,NA,2,,1,0,NA,,NA,Mara,0
+RCT0458,2,pulse,0,0,3,Moharango,yes_vacc,2,0,no_card,0,0,NA,no,0,Mara,0
+RCT0457,1,pulse,0,0,3,Moharango,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0456,6,pulse,0,0,3,Moharango,no_vacc,NA,6,,6,0,NA,,NA,Mara,0
+RCT0455,1,pulse,0,0,3,Moharango,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0454,1,pulse,0,0,3,Moharango,no_vacc,NA,1,,0,0,NA,,NA,Mara,0
+RCT0453,1,pulse,0,0,3,Moharango,no_vacc,NA,1,,0,0,NA,,NA,Mara,0
+RCT0452,1,pulse,0,0,3,Moharango,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0451,1,pulse,0,0,3,Moharango,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0470,1,pulse,0,0,3,Ntarechagini,yes_vacc,1,0,no_card,1,1,NA,no,0,Mara,0
+RCT0469,2,pulse,0,0,3,Ntarechagini,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0468,2,pulse,0,0,3,Ntarechagini,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0466,1,pulse,0,0,3,Ntarechagini,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0467,2,pulse,0,0,3,Ntarechagini,yes_vacc,1,1,yes_card,0,0,NA,no,1,Mara,0
+RCT0465,1,pulse,0,0,3,Ntarechagini,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0464,1,pulse,0,0,3,Ntarechagini,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0463,1,pulse,0,0,3,Ntarechagini,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0462,2,pulse,0,0,3,Ntarechagini,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0461,2,pulse,0,0,3,Ntarechagini,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0480,1,pulse,0,0,3,Komera Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1,Mara,0
+RCT0479,1,pulse,0,0,3,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0478,1,pulse,0,0,3,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0477,2,pulse,0,0,3,Komera Senta,unknown,NA,2,,2,0,NA,,NA,Mara,0
+RCT0950,2,pulse,0,10,35,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0950,2,pulse,0,10,35,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0950,2,pulse,0,10,35,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0950,2,pulse,0,10,35,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0949,4,pulse,0,10,35,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0949,4,pulse,0,10,35,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0949,4,pulse,0,10,35,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0949,4,pulse,0,10,35,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA,Mara,2
+RCT0948,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0948,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0948,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0948,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0947,2,pulse,0,10,35,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0947,2,pulse,0,10,35,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0947,2,pulse,0,10,35,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0947,2,pulse,0,10,35,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0946,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0946,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0946,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0946,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0945,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0945,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0945,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0945,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0944,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0944,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0944,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0944,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0943,1,pulse,0,10,35,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0943,1,pulse,0,10,35,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0943,1,pulse,0,10,35,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0943,1,pulse,0,10,35,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,2
+RCT0942,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0942,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0942,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0942,1,pulse,0,10,35,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0941,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0941,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0941,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0941,3,pulse,0,10,35,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0940,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0940,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0940,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0940,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0939,2,pulse,0,10,35,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0939,2,pulse,0,10,35,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0939,2,pulse,0,10,35,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0939,2,pulse,0,10,35,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,2
+RCT0938,2,pulse,0,10,35,Butambahu,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0938,2,pulse,0,10,35,Butambahu,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0937,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0937,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0936,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0936,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0935,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0935,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0934,3,pulse,0,10,35,Butambahu,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0934,3,pulse,0,10,35,Butambahu,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,2
+RCT0933,2,pulse,0,10,35,Butambahu,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0933,2,pulse,0,10,35,Butambahu,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0932,1,pulse,0,10,35,Butambahu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0932,1,pulse,0,10,35,Butambahu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0932,1,pulse,0,10,35,Butambahu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0932,1,pulse,0,10,35,Butambahu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0931,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0931,3,pulse,0,10,35,Butambahu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0930,1,pulse,0,10,35,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0929,1,pulse,0,10,35,Kukigumu,yes_vacc,1,0,yes_card,1,1,NA,no,0,Mara,2
+RCT0928,2,pulse,0,10,35,Kukigumu,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0927,5,pulse,0,10,35,Kukigumu,no_vacc,NA,5,,5,0,NA,,NA,Mara,2
+RCT0926,3,pulse,0,10,35,Kukigumu,no_vacc,NA,3,,3,0,NA,,NA,Mara,2
+RCT0925,2,pulse,0,10,35,Kukigumu,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,2
+RCT0924,1,pulse,0,10,35,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0923,1,pulse,0,10,35,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0922,1,pulse,0,10,35,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA,Mara,2
+RCT0921,2,pulse,0,10,35,Kukigumu,no_vacc,NA,2,,2,0,NA,,NA,Mara,2
+RCT0450,5,pulse,0,0,8,Keruta,yes_vacc,1,4,yes_card,5,1,NA,no,1,Mara,0
+RCT0449,2,pulse,0,0,8,Keruta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0448,2,pulse,0,0,8,Keruta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0447,1,pulse,0,0,8,Keruta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0446,2,pulse,0,0,8,Keruta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0445,2,pulse,0,0,8,Keruta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0444,1,pulse,0,0,8,Keruta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0443,1,pulse,0,0,8,Keruta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0442,7,pulse,0,0,8,Keruta,no_vacc,NA,7,,7,0,NA,,NA,Mara,0
+RCT0370,1,pulse,0,0,11,Gwitare Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0369,1,pulse,0,0,11,Gwitare Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0368,3,pulse,0,0,11,Gwitare Senta,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0367,1,pulse,0,0,11,Gwitare Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0441,2,pulse,0,0,8,Keruta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0366,1,pulse,0,0,11,Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0439,2,pulse,0,0,11,Keisunguruta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0364,3,pulse,0,0,11,Senta,yes_vacc,2,1,yes_card,3,2,NA,no,2,Mara,0
+RCT0437,1,pulse,0,0,8,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0365,2,pulse,0,0,11,Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0363,2,pulse,0,0,11,Senta,no_vacc,NA,1,,1,1,NA,,NA,Mara,0
+RCT0362,4,pulse,0,0,11,Senta,yes_vacc,4,0,yes_card,4,4,NA,no,4,Mara,0
+RCT0438,1,pulse,0,0,8,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0436,2,pulse,0,0,8,Keisunguruta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0361,2,pulse,0,0,11,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0435,1,pulse,0,0,8,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0434,3,pulse,0,0,8,Keisunguruta,yes_vacc,1,2,yes_card,3,1,NA,no,1,Mara,0
+RCT0380,1,pulse,0,0,11,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0433,1,pulse,0,0,8,Keisunguruta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0379,3,pulse,0,0,11,Ronkore,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0378,2,pulse,0,0,11,Ronkore,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0377,1,pulse,0,0,11,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0432,1,pulse,0,0,8,Keisunguruta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0431,1,pulse,0,0,8,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0376,1,pulse,0,0,11,Ronkore,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0375,3,pulse,0,0,11,Ronkore,no_vacc,NA,3,,3,0,NA,,NA,Mara,0
+RCT0430,4,pulse,0,0,8,Gonyi,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,0
+RCT0374,2,pulse,0,0,11,Ronkore,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0429,1,pulse,0,0,8,Gonyi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0373,1,pulse,0,0,11,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0372,1,pulse,0,0,11,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0428,3,pulse,0,0,8,Gonyi,yes_vacc,3,0,yes_card,3,3,NA,no,3,Mara,0
+RCT0371,2,pulse,0,0,11,Ronkore,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0427,2,pulse,0,0,8,Gonyi,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0426,1,pulse,0,0,8,Gonyi,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0390,2,pulse,0,0,11,Nyamiobo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0425,1,pulse,0,0,8,Gonyi,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0424,1,pulse,0,0,8,Gonyi,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0389,1,pulse,0,0,11,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0388,1,pulse,0,0,11,Nyamiobo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0423,2,pulse,0,0,8,Gonyi,yes_vacc,1,1,yes_card,2,1,NA,no,1,Mara,0
+RCT0387,2,pulse,0,0,11,Nyamiobo,yes_vacc,2,0,yes_card,2,2,NA,no,2,Mara,0
+RCT0422,1,pulse,0,0,8,Gonyi,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0386,1,pulse,0,0,11,Nyamiobo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0421,2,pulse,0,0,8,Gonyi,yes_vacc,2,0,yes_card,1,1,NA,no,2,Mara,0
+RCT0385,4,pulse,0,0,11,Nyamiobo,yes_vacc,2,2,yes_card,4,2,NA,no,2,Mara,0
+RCT0384,1,pulse,0,0,11,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0383,1,pulse,0,0,11,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0382,1,pulse,0,0,11,Nyamiobo,yes_vacc,1,0,yes_card,1,1,NA,no,1,Mara,0
+RCT0381,1,pulse,0,0,11,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0476,2,pulse,0,0,46,Komera Senta,yes_vacc,1,1,no_card,0,0,NA,no,0,Mara,0
+RCT0475,2,pulse,0,0,46,Komera Senta,no_vacc,NA,2,,2,0,NA,,NA,Mara,0
+RCT0474,1,pulse,0,0,46,Komera Senta,no_vacc,NA,1,,0,0,NA,,NA,Mara,0
+RCT0473,1,pulse,0,0,46,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
+RCT0472,2,pulse,0,0,46,Komera Senta,no_vacc,NA,2,,1,0,NA,,NA,Mara,0
+RCT0471,1,pulse,0,0,46,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA,Mara,0
